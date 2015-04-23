@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A237B9A2-AD62-454E-AB82-3C95234DA898</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Bubble Tea Finder</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>463106A718E1D7C29573D26B9A23C3F5C2F795A5</key>
+		<string>https://github.com/superxlx/BubbleTea.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Bubble Tea Finder.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>463106A718E1D7C29573D26B9A23C3F5C2F795A5</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/superxlx/BubbleTea.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>463106A718E1D7C29573D26B9A23C3F5C2F795A5</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>463106A718E1D7C29573D26B9A23C3F5C2F795A5</string>
+			<key>IDESourceControlWCCName</key>
+			<string>BubbleTea</string>
+		</dict>
+	</array>
+</dict>
+</plist>
